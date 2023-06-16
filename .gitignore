@@ -1,3 +1,9 @@
+# THE FIVE HORSEMEN
+node_modules
+.node_modules
+.env
+.DS_Store
+package-lock.json
 # Logs
 logs
 *.log
