@@ -20,7 +20,10 @@ Repository containing the code for the Text Editor Progressive Web Application (
 # Overview
 
 ## The Challenge:
-
+* Offline Functionality 
+* Implementation of concurrently in the scripts to provide convenient commands to build,start and manage the server and client in different enviroment.
+* Implementation of idb package, and indexedDB API.
+* Implementation of proper data persistence techniques that serve as redundancy in case one of the options is not supported by the browser
 
 ## Assigned User Story:
 ```
@@ -97,7 +100,6 @@ THEN I should have proper build scripts for a webpack application
 3. Select the JATE application from the resulting list
 
 
-
 ## Deployed Application Link:
 [Deployed Application Link:]()
 
@@ -125,7 +127,13 @@ THEN I should have proper build scripts for a webpack application
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
 
 ## What I Learned:
-1.
+
+* Implementation of concurrently in the scripts to provide convenient commands to build,start and manage the server and client in different enviroment.
+* Proper implementation of idb package, and indexedDB API.
+* Implementation of proper data persistence techniques that serve as redundancy in case one of the options is not supported by the browser
+* How to make a single-page application that meets the PWA criteria.
+* How to make your application functioning offline.
+
 
 ### Continued Development:
 1. have the ability to connect to external database to store data.
