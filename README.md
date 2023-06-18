@@ -108,7 +108,21 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Screenshots:
-![](public/assets/images/NOSQL.png)
+* Application in user's browser
+![JATE - landing](./assets/images/app-browser.png)
+* Application installed on the user's machine
+![JATE - installed](./assets/images/app-installed.png)
+* Manifest as accessed through the chrome dev tools
+![JATE - manifest](./assets/images/app-manifest.png)
+* Service worker as accessed through the chrome dev tools.
+![JATE - service worker](./assets/images/app-service-worker.png)
+* Local storage through the chrome dev tools.
+![JATE - local storage](./assets/images/app-localstorage.png)
+* IndexedDB as accessed through the chrome dev tools.
+![JATE - IndexedDB](./assets/images/app-indexedDB.png)
+* Cache storage as accessed through the chrome dev tools.
+![JATE - cache](./assets/images/app-cached.png)
+
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
