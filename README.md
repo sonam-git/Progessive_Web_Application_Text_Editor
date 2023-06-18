@@ -70,7 +70,7 @@ THEN I should have proper build scripts for a webpack application
 3. Changes will be automatically saved once the user moves away from the editor.
 
 #### To view browser storage :
-1. Go to https://herokuapp.com/ to access the application
+1. Go to https://sj-pwa-text-editor-7db16eec1fd0.herokuapp.com/ to access the application
 2. Right click on the page and select inspect.
 3. In the chrome dev tools, navigate to the "applications" tab.
 4. Go through the following links from the left hand side and inspect
@@ -84,7 +84,7 @@ THEN I should have proper build scripts for a webpack application
     * Cache Storage
 
  #### To install application :
-1. Go to https://.herokuapp.com/ to access the application
+1. Go to https://sj-pwa-text-editor-7db16eec1fd0.herokuapp.com/ to access the application
 2. Click on the install button on the top left.
 3. Click Install on the prompt
   *   the application will launch in a separate window
@@ -101,26 +101,33 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Deployed Application Link:
-[Deployed Application Link:]()
+[Deployed Application Link:](https://sj-pwa-text-editor-7db16eec1fd0.herokuapp.com/)
 
 ## GitHub Repository:
-[GitHub Repository:](https://github.com/)
+[GitHub Repository:](https://github.com/sonam-git/Progessive_Web_Application_Text_Editor)
 
 
 ## Screenshots:
 * Application in user's browser
+
 ![JATE - landing](./assets/images/app-browser.png)
 * Application installed on the user's machine
+
 ![JATE - installed](./assets/images/app-installed.png)
 * Manifest as accessed through the chrome dev tools
+
 ![JATE - manifest](./assets/images/app-manifest.png)
 * Service worker as accessed through the chrome dev tools.
+
 ![JATE - service worker](./assets/images/app-service-worker.png)
 * Local storage through the chrome dev tools.
+
 ![JATE - local storage](./assets/images/app-localstorage.png)
 * IndexedDB as accessed through the chrome dev tools.
+
 ![JATE - IndexedDB](./assets/images/app-indexedDB.png)
 * Cache storage as accessed through the chrome dev tools.
+
 ![JATE - cache](./assets/images/app-cached.png)
 
 
